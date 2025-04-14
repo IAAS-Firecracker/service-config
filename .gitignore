@@ -1,6 +1,9 @@
 HELP.md
-*/target/
-!*/target/*.jar
+target/*classes
+target/maven*
+target/*reports
+target/classes*
+target/service_config*
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
